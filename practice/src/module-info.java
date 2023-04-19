@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author harshitasrivastava
- *
- */
-module practice {
-}
